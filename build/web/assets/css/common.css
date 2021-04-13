@@ -1,0 +1,100 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 20, 2021, 10:56:04 PM
+    Author     : TRANTATDAT
+*/
+@charset "UTF-8";
+body {
+    margin: 0;
+}
+
+a:hover {
+    color: #00bc90 !important;
+}
+
+.order h6 {
+    color: #00bc90;
+}
+
+.status {
+    position: absolute;
+    z-index: 1000;
+}
+
+.status img {
+    width: 75%;
+}
+
+.btn-outline-primary, .btn-outline-primary:active, .btn-outline-primary:visited {
+    color: #00bc90 !important;
+    border-color: #00bc90 !important; 
+}
+
+.btn.btn-primary:hover {
+    color: #BEBEBE !important;
+}
+
+.btn-outline-primary:hover {
+    background-color: #00bc90 !important; 
+    color: #ffffff !important;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #00bc90 !important;
+    border-color: #00bc90 !important; 
+}
+
+.btn-danger:hover {
+    color: #ffffff !important;
+}
+
+.btn.btn-outline-danger:hover, .btn.btn-outline-success:hover,
+.btn.btn-outline-secondary:hover {
+    color: #ffffff !important;
+}
+
+.page-link {
+    color: #00bc90 !important;
+}
+
+.page-link:hover {
+    color: #00bc90 !important;
+}
+
+.page-item.active .page-link:hover{
+    color: #BEBEBE !important;
+}
+
+.page-item.active .page-link {
+    background-color: #00bc90 !important;
+    border-color: #00bc90 !important;
+    color: #ffffff !important;
+}
+
+.nav-link:hover {
+    color: #00bc90 !important;
+}
+
+.sorting {
+    text-decoration: none;
+    color:  #000000;
+}
+
+.sorting:hover {   
+    text-decoration: underline;
+    color:  #00bc90 !important;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #ffffff !important;
+}
+
+@media (max-width: 991.98px) { 
+    .filter-tags {
+        display: none;
+    }
+}

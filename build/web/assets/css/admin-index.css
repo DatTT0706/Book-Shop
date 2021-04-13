@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 25, 2021, 4:41:29 PM
+    Author     : TRANTATDAT
+*/
+@charset "UTF-8";
+
+.book-icon {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.row.icon {
+    -webkit-display: flex;
+    -webkit-align-items: center;
+    display: flex;
+    align-items: center;
+}

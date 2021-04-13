@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 21, 2021, 5:19:45 PM
+    Author     : TRANTATDAT
+*/
+
+@charset "UTF-8";
+.nav-item:hover {
+    color: #00bc90;
+}
+
+.account-dropdown {
+    text-decoration: none !important;
+}
+
+.login-link {
+    text-decoration: none !important;
+}
+
+.product-name {
+    padding: 0 !important;
+}
+
+.bg-info {
+    background-color: #00bc90!important;
+}
